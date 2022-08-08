@@ -1,0 +1,94 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    
+}
+.header{
+    color:black;
+    
+}
+.header2{
+    color:blueviolet;
+    font-size: 20px;
+}
+
+
+.box{
+    background-color: #eeee7c;
+}
+.btn{
+    text-align: center;
+
+    box-shadow: 1px 2px 0px 0px #105290;
+
+    background-color:#317ac4;
+
+    border-radius:3px;
+
+    border:1px solid #0a2036;
+   font-size:12px;
+
+
+}
+
+
+.regBx{
+    background-color: #317ac4;
+    padding: 2px;
+    border-left: 20px solid teal;
+    border-width: 10px;
+    text-align: left;
+   
+    
+}
+
+
+
+
+.topnav {
+     overflow: hidden;
+ background-color: hsl(263, 95%, 9%);
+ bottom: 30px;
+}
+.topnav a {
+ float: left;
+color: #f2f2f2;
+ text-align: center;
+ padding: 14px 16px;
+ 
+ }
+ .topnav p {
+float: right;
+ display: block;
+ color: blue;
+text-align: left;
+padding: 14px 16px;
+text-decoration: none;
+}
+ /* Change color on hover */
+ .topnav a:hover {
+ background-color: rgb(221, 221, 221);
+ color: black;
+ }
+
+
+
+
+
+div.sticky {
+
+    text-align: center;
+
+    position: sticky;
+
+    top: 0;
+
+   
+
+    border-width: 50px;
+
+ 
+
+  }
+
+
